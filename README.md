@@ -26,6 +26,8 @@ Pytorch框架下采用CNN去除高斯噪声（盲去噪，未像DnCNN事先给�
 
 6.个人GPU算力及显存大小的限制，实际条件不允许尝试更深的网络
 
+7.去噪效果大概PSNR为10左右时，去噪结果估计在20左右；一般的图片经过网络处理后PSNR在25作用，目前估计如果认真测试，和DnCNN应该相差不大。
+
 部分去噪效果：
 
 ![image](https://github.com/M0reDr1nk/CNN_Denoiser_pytorch/blob/master/example_result/1.png?raw=true)

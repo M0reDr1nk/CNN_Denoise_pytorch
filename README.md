@@ -26,6 +26,11 @@ Pytorch框架下采用CNN去除高斯噪声（盲去噪，未像DnCNN事先给�
 
 6.个人GPU算力及显存大小的限制，实际条件不允许尝试更深的网络
 
+部分去噪效果：
+
+!(https://github.com/M0reDr1nk/CNN_Denoiser_pytorch/blob/master/example_result/1.png?raw=true)
+
+
 如果对您可以起到任何作用或者帮助请回复或者联系我，我会很高兴。
 或者您发现了一些问题或建议，请留言，谢谢。
 

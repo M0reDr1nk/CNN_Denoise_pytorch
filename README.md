@@ -28,7 +28,7 @@ Pytorch框架下采用CNN去除高斯噪声（盲去噪，未像DnCNN事先给�
 
 部分去噪效果：
 
-!(https://github.com/M0reDr1nk/CNN_Denoiser_pytorch/blob/master/example_result/1.png?raw=true)
+![image](https://github.com/M0reDr1nk/CNN_Denoiser_pytorch/blob/master/example_result/1.png?raw=true)
 
 
 如果对您可以起到任何作用或者帮助请回复或者联系我，我会很高兴。

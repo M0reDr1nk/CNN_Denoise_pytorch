@@ -17,6 +17,8 @@ Pytorch框架下采用CNN去除高斯噪声（盲去噪，未像DnCNN事先给�
     (3)Batchsize较小，尝试GroupNorm；
     
     (3)数据集为超分辨率数据集经过多次缩放和裁剪得到————多尺度训练；
+    
+    (4)去噪PSNR范围限定在在10-40；
    
 4.整体思路参照Beyond A Gaussian Denoiser论文(DnCNN)————具体网络结构尝试大换血；
 

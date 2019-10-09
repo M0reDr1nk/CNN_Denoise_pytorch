@@ -1,6 +1,6 @@
 # CNN_Denoiser_pytorch
 
-Pytorch框架下采用CNN去除高斯噪声（盲去噪，未像DnCNN事先给出相对固定的信噪比）,尝试采用类似RPN+残差网络的结构。
+Pytorch框架下采用CNN去除高斯噪声（盲去噪，未像DnCNN事先给出相对固定的信噪比）,尝试采用类似FPN+残差网络的结构。
 
 具体模型结构的搭建：
 
